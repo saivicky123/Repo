@@ -1,0 +1,6 @@
+Ls -ltr
+df -s
+rm -rf
+chmod 755
+chown 
+netstat -na 
